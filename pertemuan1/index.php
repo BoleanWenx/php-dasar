@@ -1,5 +1,6 @@
 <!-- dasar -->
 
 <?php
-	echo "Hello World";
+	$halo = "Hello world";
+	echo $halo;
 ?>
